@@ -1,0 +1,26 @@
+body {
+    margin: 70px 300px;
+    font-family: Andalus;
+    font-size:x-large;
+    font-weight:bold;
+    background-color:lightGrey;
+}
+/* table {
+    width: 400px;
+} */
+.hidden{
+    visibility: hidden;
+}
+.display{
+    display: none;
+}
+.wid{
+    width: 600px;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+.bkGround{
+    background-color:rgb(99, 7, 7);
+  }
